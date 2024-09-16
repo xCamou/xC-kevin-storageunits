@@ -1,4 +1,4 @@
-Das Orifinal Script: https://forum.cfx.re/t/storage/5267782
+The Original Script: https://forum.cfx.re/t/storage/5267782
 
 # Storage Units edited by xCamou (ESX added)
 
